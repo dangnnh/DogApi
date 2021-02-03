@@ -1,0 +1,73 @@
+body{
+    background-color:wheat;
+}
+.fetch{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.link{
+    background-color: darkgray;
+    width: 450px;
+    height: 30px;
+    padding: 7px 0 0 15px;
+    margin-right: 5px;
+}
+button{
+    width: 50px;
+    height: 36px;
+    background-color: deepskyblue;
+}
+.content{
+    display: flex;
+}
+.json >textarea{
+    width: 300px;
+    height: 100px;
+}
+.main >textarea{
+    width: 80%;
+    height: 300px;
+}
+.img{
+    padding-left: 15px;
+}
+img{
+    max-height: 200px;
+}
+.random{
+    margin-top: 80px;
+}
+.random3{
+    margin-top: 80px;
+}
+.sub >textarea{
+    height: 100px;
+    width: 80%;
+}
+.top{
+    margin: 80px 0 80px 0;
+}
+.main{
+    margin-top: 80px;
+}
+select{
+    float: left;
+    width: 120px;
+    height: 25px;
+}
+.browse{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+.link-browse{
+    width: 450px;
+    height: 35px;
+    margin: 0 15px 0 0px;
+    padding-left: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: lightgray;
+}
